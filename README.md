@@ -1,5 +1,5 @@
 # About-meh
-🎓 Computer Science student (4th semester) at Hamdard University Islamabad
+🎓 Computer Science student (4th semester) 
 
 💻 Into C, C++, and Python — love turning logic into cool projects
 
